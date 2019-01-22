@@ -1,0 +1,5 @@
+[Icon Theme]
+Name=nfs_alpha
+Comment= NFS Cursors Alpha, by JJ.Ying yingjunjiu@sina.com yingjunjiu.77g.net - Converted by GrynayS
+Example=left_ptr
+Inherits=core
